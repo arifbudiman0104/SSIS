@@ -7,6 +7,10 @@ Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS1", "SSIS\SSIS1.dtproj"
 EndProject
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS2", "SSIS2\SSIS2.dtproj", "{1775F1CA-3CBB-423C-95D4-342B5EFD2EC2}"
 EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS3", "SSIS3\SSIS3.dtproj", "{041246A0-7021-4DC2-9817-08B71CB8D531}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS4", "SSIS4\SSIS4.dtproj", "{3A5C7CBA-B167-42BF-9EA8-DDBACF59868F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
@@ -14,7 +18,9 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9054FA23-3B2D-4A94-94DA-7EB979AD1DA8}.Development|Default.ActiveCfg = Development
 		{1775F1CA-3CBB-423C-95D4-342B5EFD2EC2}.Development|Default.ActiveCfg = Development
-		{1775F1CA-3CBB-423C-95D4-342B5EFD2EC2}.Development|Default.Build.0 = Development
+		{041246A0-7021-4DC2-9817-08B71CB8D531}.Development|Default.ActiveCfg = Development
+		{3A5C7CBA-B167-42BF-9EA8-DDBACF59868F}.Development|Default.ActiveCfg = Development
+		{3A5C7CBA-B167-42BF-9EA8-DDBACF59868F}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
