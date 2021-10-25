@@ -5,13 +5,16 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS1", "SSIS\SSIS1.dtproj", "{9054FA23-3B2D-4A94-94DA-7EB979AD1DA8}"
 EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS2", "SSIS2\SSIS2.dtproj", "{1775F1CA-3CBB-423C-95D4-342B5EFD2EC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9054FA23-3B2D-4A94-94DA-7EB979AD1DA8}.Development|Default.ActiveCfg = Development
-		{9054FA23-3B2D-4A94-94DA-7EB979AD1DA8}.Development|Default.Build.0 = Development
+		{1775F1CA-3CBB-423C-95D4-342B5EFD2EC2}.Development|Default.ActiveCfg = Development
+		{1775F1CA-3CBB-423C-95D4-342B5EFD2EC2}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
